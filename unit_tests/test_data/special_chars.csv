@@ -1,0 +1,4 @@
+Name,Description,Notes
+"Product, with comma","""Quoted"" text",Regular text
+Another product,"Line 1
+Line 2","Special @#$% chars"
